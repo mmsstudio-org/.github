@@ -48,7 +48,7 @@ If you're passionate about technology and open source, feel free to explore our 
 
 For more insights and updates, please visit our founder's profiles:  
 - **GitHub:** [SabbirMMS](https://github.com/SabbirMMS)  
-- **Portfolio:** [sabbirmms.github.io/sabbirmms](https://sabbirmms.github.io/sabbirmms)
+- **Portfolio:** [sabbirmms.github.io/sabbirmms](https://sabbirmms.github.io)
 
 ## Official Website
 
